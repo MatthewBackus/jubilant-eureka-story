@@ -1,1 +1,4 @@
-It was a cool Friday evening in Wisconsin. There was a thin layer of snow draped over the city just outside. Inside, there was a UW student. This student thought he was done writing now that he just had computer science courses left to take, but little did he know that nothing is ever that simple.
+	It was a cool Friday evening in Wisconsin. There was a thin layer of snow draped over the city just outside. Inside, there was a UW student. This student thought
+ he was done writing now that he just had computer science courses left to take, but little did he know that nothing is ever that simple. Just as he was about to submit his homework,
+his computer started on fire. First he franticly tried blowing on it, but that didn't seem to stop the fire at all. If only there was a thin layer of snow draped over the city he could
+use to put this fire out.
